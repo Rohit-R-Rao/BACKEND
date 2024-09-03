@@ -1,4 +1,4 @@
-# BACKEND
+# stockformer_inference-request
 
 pip install django
 pip install djangorestframework
